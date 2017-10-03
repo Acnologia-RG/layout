@@ -188,6 +188,6 @@ main a {
 main nav ul{
    background-color: #335;
 }
-h1,h3,a,ol,ul li:first-letter{
+h1,h3,h4,a,ol,ul li:first-letter{
   text-transform: capitalize;
 }
