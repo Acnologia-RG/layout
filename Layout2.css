@@ -199,14 +199,19 @@ main a {
 }
 #rwby-banner {
 	width: 100%;
-	height: 
 
+}
+main nav {
+	position: sticky;
+	top: 0px;
+	z-index: 1;
+	background-color: #335;
 }
 main nav ul{
    background-color: #335;
 }
 h1,h2,h3,h4,a,ol,ul li,p::first-letter {
-  text-transform: capitalize;
+	text-transform: capitalize;
 }
 h4 {
 	margin: 0px;
